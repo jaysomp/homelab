@@ -2,6 +2,9 @@
 
 I run all these services in Docker containers to keep things simple. If you want to set this up yourself, you’ll need Docker installed. For reference, I’m using **Ubuntu 22.04.5 LTS**, but this guide should work on any system with Docker.
 
+![A snapshot of my custom homelab dashboard interface.](dash.png)
+
+
 ---
 
 ### 1. **Portainer**
